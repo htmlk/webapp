@@ -1,0 +1,17 @@
+CACHE MANIFEST
+#1.1
+
+CACHE:
+/webapp/prd/styles/app@3d41ad27e7a10bf19c35da7b98d55bba.css
+/webapp/prd/scripts/app@bec66952e4afdde7747728e2c6618472.js
+/webapp/fonts/iconfont.ttf
+/webapp/fonts/iconfont.woff
+/webapp/fonts/iconfont1.ttf
+/webapp/fonts/iconfont1.woff
+/webapp/fonts/iconfont2.ttf
+/webapp/fonts/iconfont2.woff
+/webapp/offline.appcache
+NETWORK:
+*
+FALLBACK:
+offline.appcache /webapp/offline.appcache
