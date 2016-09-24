@@ -99,9 +99,16 @@
 
 3、没有实现在app里面
 ## github 上传 ##
+
 echo "# web" >> README.md
+
 git init
+
 git add README.md
+
 git commit -m "first commit"
+
 git remote add origin https://github.com/htmlk/web.git
+
 git push -u origin master
+
