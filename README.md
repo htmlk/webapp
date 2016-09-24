@@ -9,11 +9,14 @@
 2、采用fekit工程化
 
 3、采用缓存机制
+
 ## fekit工程化 ##
+
 > 点击进入我的另一个fekitdemo工程：[https://github.com/htmlk/fekitdemo](https://github.com/htmlk/fekitdemo "https://github.com/htmlk/fekitdemo")
 > 
 > 这里面有我对fekit的详细介绍
 > 
+
 ## 加入缓存机制 ##
 ### 一、离线存储的作用 ###
 1、用户可离线访问你的应用，这对于无法随时保持联网状态的移动终端用户来说尤其重要
