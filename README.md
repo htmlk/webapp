@@ -112,3 +112,5 @@ git remote add origin https://github.com/htmlk/web.git
 
 git push -u origin master
 
+
+![http://www.htmlk.cn/webapp/images/loading.png](http://www.htmlk.cn/webapp/images/loading.png)
